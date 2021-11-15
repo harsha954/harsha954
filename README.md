@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshith Raj Uppula</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/harshith1900" target="blank"><img src="https://img.shields.io/twitter/follow/harshith1900?logo=twitter&style=for-the-badge" alt="harshith1900" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@harshith1900](https://medium.com/@harshith1900)
 
