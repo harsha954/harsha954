@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 
-- 📝 I regularly write articles on [https://medium.com/@harshith1900](https://medium.com/@harshith1900)
+- 📝 I regularly write articles on [harshith1900.medium.com](https://medium.com/@harshith1900)
 
 - 📫 How to reach me **harshith1900@gmail.com | https://twitter.com/harshith1900**
 
